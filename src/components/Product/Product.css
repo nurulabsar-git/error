@@ -1,0 +1,25 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightsalmon;
+    margin: 0.2rem 0.5rem;
+    padding: 0.5rem 0.2rem
+}
+
+.product-info{
+    color: blueviolet;
+    font-weight:400;
+}
+
+.main-button{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border: 1px solid red;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.review-item{
+    border-bottom: 1px solid lightgray;
+   margin: 1px 1px 5px 200px;
+}
